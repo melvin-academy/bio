@@ -5,7 +5,7 @@ html,
 body {
   margin: 0;
   width: 100%;
-  height: 100%;
+  height: 5000px;
 }
 body {
   background: #FFF;
@@ -77,3 +77,29 @@ ul li a {
   color: rgb(39, 174, 96);
   text-decoration: none;
 }
+
+nav {
+  background: rgba(0, 0, 0, 0.5);
+  height: 55px;
+  text-align: center;
+}
+
+nav a {
+  height: 55px;
+  padding: 0.5em;
+  margin-top: 0.5em;
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
